@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-13T23:04:41Z" name="Default suite" finished-at="2021-07-13T23:04:52Z" duration-ms="11046">
+    <groups>
+    </groups>
+    <test started-at="2021-07-13T23:04:41Z" name="Default test" finished-at="2021-07-13T23:04:52Z" duration-ms="11046">
+      <class name="crossbrowser.LaunchTwo">
+        <test-method signature="login_Test()[pri:0, instance:crossbrowser.LaunchTwo@2a7ed1f]" started-at="2021-07-13T23:04:41Z" name="login_Test" finished-at="2021-07-13T23:04:52Z" duration-ms="11011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Test -->
+      </class> <!-- crossbrowser.LaunchTwo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
